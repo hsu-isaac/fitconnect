@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hsu-isaac/fitconnect/issues"
   },
-  "homepage": "https://github.com/hsu-isaac/fitconnect#readme"
+  "homepage": "https://github.com/hsu-isaac/fitconnect#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
